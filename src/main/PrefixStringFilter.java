@@ -1,6 +1,7 @@
 package main;
 
 public class PrefixStringFilter implements StringFilter {
+
     int n;
 
     public PrefixStringFilter(int n) {
