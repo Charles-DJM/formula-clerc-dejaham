@@ -1,4 +1,4 @@
-package main;
+package main.stringfilter;
 
 public class PrefixStringFilter implements StringFilter {
 

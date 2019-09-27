@@ -1,4 +1,4 @@
-package main;
+package main.stringfilter;
 
 public class LowerCaseStringFilter implements StringFilter {
     @Override
