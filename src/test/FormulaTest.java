@@ -1,5 +1,9 @@
-package main.formula;
+package test;
 
+import main.formula.Formula;
+import main.formula.Product;
+import main.formula.Sum;
+import main.formula.Variable;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
